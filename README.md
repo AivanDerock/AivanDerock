@@ -14,6 +14,7 @@ Olá. Tudo está bem ?? Prazer em conhecê-lo, meu nome é Ivan, mas todos me ch
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aivanderock&theme=radical&layout=compact&text_color=ffffff&hide_border=false&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aivanderock&theme=radical&show_icons=true&text_color=ffffff&hide_border=false&hide_title=true&line_height=20&text_bold=false&card_width=100)
