@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="360px" margin-right="10px" align="right">
-
 <h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">🤟🏽 About Me</h2><br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="360px" margin-right="10px" align="right">
 
 <p align='justify'>
   Prazer em conhecê-lo e bem-vindo ao meu perfil!<br><br>
