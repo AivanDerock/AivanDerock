@@ -1,5 +1,5 @@
 <h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">🤟🏽 About Me</h2><br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" margin-right="10px" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AivanDerock&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="ilustração de um computador" min-width="400px" max-width="400px" width="370px" margin-right="10px" align="right">
 
 <p align='justify'>
   Prazer em conhecê-lo e bem-vindo ao meu perfil!<br><br>
@@ -31,8 +31,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logoColor=white)
-
-
 
 <h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">💼 Ferramentas:</h2><br>
 
