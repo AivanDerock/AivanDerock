@@ -1,67 +1,59 @@
-# 🤟🏽 About Me
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" margin-right="10px" align="right">
+
+<h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">🤟🏽 About Me</h2><br>
 
 <p align='justify'>
-  Nice to meet you, and welcome to my profile!<br><br>
-  My name is Ivan, but I’m better known as Aivan. I’m 19 years old, from Paraná, Brazil, and currently work as an Information Security Analyst at a software company.<br>
-  I’m passionate about technology, with a strong focus on JavaScript and web development.<br>
-  I’m always pursuing continuous learning — studying and coding every day.<br>
-  Outside of work, I’m also a big fan of games and everything related to the tech world.<br><br>
-  Thanks for stopping by and taking the time to read!
-</p>
+  Prazer em conhecê-lo e bem-vindo ao meu perfil!<br><br>
+  Meu nome é Ivan, tenho 19 anos, sou paranaense e atualmente trabalho como Analista de Segurança da Informação.<br>
+  Sou apaixonado por tecnologia, com foco em JavaScript e desenvolvimento web.<br>
+  Estou sempre buscando aprendizado contínuo, estudando e programando.<br>
+  Fora do trabalho, também sou um grande fã de jogos e tudo relacionado ao mundo da tecnologia.<br>
+  
 
-# 💻 Tech Stack
+<h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">💻 Linguagens:</h2><br>
 
-<div align='center'>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-  <a href="https://developer.mozilla.org/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
+<h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">📖 Estudos:</h2><br>
 
-  <br/>
-  <br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logoColor=white)
 
-  ![](https://github-readme-stats.vercel.app/api?username=AivanDerock&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanDerock&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
-# 🚀 Other Tech's
 
-<div align='center'>
+<h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">💼 Ferramentas:</h2><br>
 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" alt="Google Chrome"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-</div>
+<h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">🎮 Games:</h2><br>
 
-# 📱 Contacts
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/AivanDerock)
 
-<div align='center'>
+<h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">💌 Contato:</h2><br>
 
-  <a href="mailto:aivanderock@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://steamcommunity.com/id/AivanDerock">
-    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam"/>
-  </a>
-  <a href="https://github.com/AivanDerock">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aivanderock@gmail.com)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=)
+![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
