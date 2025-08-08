@@ -1,5 +1,5 @@
 <h2 style="font-size: 26px; font-weight: bold; border-bottom: none; margin: 0; padding: 0;">🤟🏽 About Me</h2>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="320px" margin-right="10px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" margin-right="10px" align="right">
 
 Prazer em conhecê-lo e bem-vindo ao meu perfil!<br><br>
 Meu nome é Ivan, tenho 19 anos, sou paranaense e atualmente trabalho como Analista de Segurança da Informação.<br>
